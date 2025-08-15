@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -23,3 +24,30 @@ footer {
     width: 100%;
     bottom: 0;
 }
+=======
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+header {
+    background: #007acc;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+main {
+    padding: 2em;
+}
+footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+>>>>>>> 4f9d3e7bb38e0168704cc7e667acd93a91a2b9a2
